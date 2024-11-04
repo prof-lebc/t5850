@@ -30,24 +30,24 @@
 // Exiba o array resultante.
 
 
-// Exercício 5: Adição e Remoção de Elementos
+// Exercício 6: Adição e Remoção de Elementos
 // Crie um array chamado 'frutas' com pelo menos 3 frutas.
 // Utilize o método .push() para adicionar uma nova fruta ao final do array
 // e o método .pop() para remover a última fruta. Exiba o array após cada operação.
 
 
-// Exercício 6: Acesso a Elementos de um Array
+// Exercício 7: Acesso a Elementos de um Array
 // Crie um array chamado 'numeros' contendo os números de 1 a 5.
 // Acesse o primeiro e o último elemento do array e exiba-os no console.
 
 
-// Exercício 6: Estrutura Condicional Simples
+// Exercício 8: Estrutura Condicional Simples
 // Crie uma variável chamada 'idade' e atribua um valor inteiro.
 // Utilize uma estrutura if para verificar se a pessoa é maior de idade (18 anos ou mais).
 // Se for maior, exiba "Você é maior de idade." caso contrário, exiba "Você é menor de idade.".
 
 
-// Exercício 7: Estrutura Condicional Composta
+// Exercício 9: Estrutura Condicional Composta
 // Crie uma variável chamada 'nota' e atribua um valor entre 0 e 10.
 // Utilize if, else if e else para verificar a nota:
 // - Se a nota for 7 ou mais, exiba "Aprovado"
@@ -55,43 +55,43 @@
 // - Se a nota for menor que 5, exiba "Reprovado".
 
 
-// Exercício 8: Operadores Aritméticos com Condicionais
+// Exercício 10: Operadores Aritméticos com Condicionais
 // Crie duas variáveis, 'a' e 'b', e atribua valores a elas.
 // Calcule a soma e verifique se o resultado é par ou ímpar.
 // Exiba no console o resultado da soma e se ele é "Par" ou "Ímpar".
 
 
-// Exercício 9: Comparadores com Condicionais
+// Exercício 11: Comparadores com Condicionais
 // Crie duas variáveis, 'numero1' e 'numero2', e atribua valores a elas.
 // Verifique se 'numero1' é maior, menor ou igual a 'numero2'.
 // Exiba a mensagem correspondente no console.
 
 
-// Exercício 10: Cálculo de Média com Condicional
+// Exercício 12: Cálculo de Média com Condicional
 // Crie duas variáveis 'nota1' e 'nota2' e atribua valores a elas.
 // Calcule a média e verifique se a média é maior ou igual a 7.
 // Exiba "Aprovado" se a média for maior ou igual a 7, caso contrário exiba "Reprovado".
 
 
-// Exercício 11: Verificação de Idade e Salário
+// Exercício 13: Verificação de Idade e Salário
 // Crie duas variáveis, 'idade' e 'salario'.
 // A pessoa pode trabalhar se for maior ou igual a 16 anos e o salário deve ser maior que 1000.
 // Exiba "Pode trabalhar." ou "Não pode trabalhar." dependendo da verificação.
 
 
-// Exercício 12: Função para Calcular a Média
+// Exercício 14: Função para Calcular a Média
 // Crie uma função chamada 'calcularMedia' que recebe duas notas como parâmetros.
 // A função deve retornar a média das notas.
 // Após a definição da função, chame-a passando duas notas e exiba o resultado no console.
 
 
-// Exercício 13: Função para Verificar se um Número é Par ou Ímpar
+// Exercício 15: Função para Verificar se um Número é Par ou Ímpar
 // Crie uma função chamada 'verificarPar' que recebe um número como parâmetro.
 // A função não deve retornar nada, mas deve exibir no console se o número é "Par" ou "Ímpar".
 // Após a definição da função, chame-a passando um número.
 
 
-// Exercício 14: Função para Calcular a Área de um Círculo
+// Exercício 16: Função para Calcular a Área de um Círculo
 // Crie uma função chamada 'calcularAreaCirculo' que recebe o raio de um círculo como parâmetro.
 // A função deve retornar a área do círculo utilizando a fórmula: área = PI * raio * raio.
 // Você pode criar uma constante no valor de 3.14 para o valor de PI.
